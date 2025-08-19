@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,7 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # Lets_learn_how_to_use_Cursor_AI-firstproject
-
-=======
-# Lets_learn_how_to_use_Cursor_AI-firstproject
->>>>>>> b4f8a15751b22732fa0d89047aa3d4a54ab4ca58
